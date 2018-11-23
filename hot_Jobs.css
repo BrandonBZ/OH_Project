@@ -1,0 +1,38 @@
+header{
+
+	background-color: red;
+	color: yellow;
+	text-align: center;
+
+}
+
+ul{
+
+	background-color: orange;
+	color: blue;
+
+}
+
+main{
+
+	background-color: yellow
+
+}
+
+article{
+
+	background-color: green
+
+}
+
+aside{
+
+	background-color: blue
+
+}
+
+footer{
+
+	background-color: purple
+
+}
